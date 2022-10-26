@@ -1,16 +1,35 @@
-### Hi there 👋
+# :sunglasses:💻 About Myself
 
-<!--
-**peteryu24/peteryu24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Software Developer
+//<img src = ""/>
 
-Here are some ideas to get you started:
+## 안녕하세요 <br>패션과 음악 그리고 미술을 사랑하는 개발자 유경철입니다.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Name : Peter Yu
+- email : peteryu24@naver.com
+- blog : [blog.naver.com/peteryu24](https://blog.naver.com/peteryu24)
+- Github : [github.com/peteryu24](https://github.com/peteryu24)
+- instagram : [@pace.non.trovo](https://www.instagram.com/pace.non.trovo/)
+
+
+
+### **내 인생의 Motto**
+> **나는 오늘 무엇을 절제할 것인가?   <br>
+도망쳐 온 곳에 낙원은 없다. **
+
+
+# Education
+
+고등학교 : 봉의고등학교  <br>
+대학교 : 한림대학교 컴퓨터 공학과 재학 중  <br>
+
+
+   
+# 🛠 Tech Stack 🛠
+
+## Language
+- **Java** 주 언어인 만큼 문법을 완벽하게 이해하고, 마더 랭귀지처럼 사용할 수 있습니다.
+- **Python** 문법에 대해서 이해하고 있습니다.
+- **C** 문법에 대해서 이해하고 있습니다.
+
+
