@@ -1,7 +1,6 @@
 # :sunglasses:💻 About Myself
 
 ## Software Developer
-//<img src = ""/>
 
 ## 안녕하세요 <br>패션과 음악 그리고 미술을 사랑하는 개발자 유경철입니다.
 
